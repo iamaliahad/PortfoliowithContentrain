@@ -1,6 +1,6 @@
 ---
 createdAt: 1648739428683
-title: "Preview Mode for Static Generation"
+title: "Test title"
 categories:
   - "lorem"
 ID: "2f9224a8-8a7f-4ded-b983-408aaeeae180"
@@ -18,6 +18,7 @@ ogImage:
   createdAt: 1648739508370
   ID: "6dffe5d9-d6f1-4e2b-a4dc-3dada90ab412"
   url: "public/assets/1648739507420_cover.jpg"
+updatedAt: 1651618525825
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
